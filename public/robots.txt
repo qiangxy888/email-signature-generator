@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://email-signature-generator.vercel.app/sitemap.xml
